@@ -1,7 +1,7 @@
 #  👋 Hi, I’m @FranciscOrtiz12
 - 👀 Soy estudiante de programacion y me interesa mucho el desarrollo web.
 - 🌱 Actualmente estoy aprendiendo a trabajar en React y me interesa bastante aprender NodeJs y Laravel.
-- 📫 Fco.ortiz12v@gmail.com
+- 📫 Fco.ortizv12@gmail.com
 
 <hr>
 Tengo 21 años y me gusta la programación. Comencé a estudiar Programación y Análisis de Sistemas en el año 2019.
