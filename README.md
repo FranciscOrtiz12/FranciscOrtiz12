@@ -1,6 +1,6 @@
 #  👋 Hi, I’m @FranciscOrtiz12
 - 👀 Soy estudiante de programacion y me interesa mucho el desarrollo web.
-- 🌱 Actualmente estoy aprendiendo a trabajar en React y me interesa bastante aprender NodeJs y Laravel.
+- 🌱 Actualmente estoy aprendiendo a trabajar en React y me interesa bastante aprender VueJs y Laravel.
 - 📫 Fco.ortizv12@gmail.com
 
 <hr>
