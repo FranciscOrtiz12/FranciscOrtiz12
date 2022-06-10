@@ -7,7 +7,7 @@
 Tengo 21 años y me gusta la programación. Comencé a estudiar Programación y Análisis de Sistemas en el año 2019.
 Actualmente estoy en calidad de egresado y en busca de una empresa que me permita realizar mi práctica profesional
 <p>
-  Me interesa el desarrollo web, he realizado distintos proyectos con PHP, JS y otras herramientas. Actualmente sigo aprendiendo mas acerca de la programación
+  Me interesa el desarrollo web, he realizado distintos proyectos con PHP, JS y otras herramientas. Actualmente sigo aprendiendo mas acerca de la programación con 
   Vuejs y me gustaría incorporar otros frameworks como React, Laravel y NodeJs.
 </p>
 <p>
