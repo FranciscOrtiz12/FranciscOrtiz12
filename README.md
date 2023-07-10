@@ -1,5 +1,5 @@
 #  👋 Hi, I’m @FranciscOrtiz12
-- 📫 Fco.ortizv12@gmail.com
+- 📫 fco.ortizv12@gmail.com
 
 
 <h3 align="left">Languages and Tools:</h3>
